@@ -1,0 +1,16 @@
+actName
+	WALKING	: subject is walking
+	WALKING_UPSTAIRS	: subject is walking upstairs
+	WALKING_DOWNSTAIRS	: subject is walking downstairs
+	SITTING	: subject is sitting
+	STANDING	: subject is standing
+	LAYING	: subject is laying
+
+subject
+	An identifier of the subject who carried out the experiment.
+	
+1	Average of Measurement #1
+2	Average of Measurement #2
+3	Average of Measurement #3
+...
+561	Average of Measurement #561
